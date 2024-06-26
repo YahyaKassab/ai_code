@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "666a241a13da92e66f96c993"
+  },
+  "name": "1 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 1,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/jZ-TB9PdtlM",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b829980e2c6323563fe5c"
+  },
+  "name": "2 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 2,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/0CEShbrY-sM?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b82ba80e2c6323563fe5f"
+  },
+  "name": "3 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 3,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/xj0WKyBmhi4?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b830680e2c6323563fe65"
+  },
+  "name": "4 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 4,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/bj8WKZOy08c?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b833480e2c6323563fe6b"
+  },
+  "name": "5 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 5,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/tN1gGcN0JTU?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b835580e2c6323563fe6e"
+  },
+  "name": "6 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 6,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/H6TrAb4IVUU?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b837280e2c6323563fe71"
+  },
+  "name": "7 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 7,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/o7AphIuSaz4?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b838e80e2c6323563fe74"
+  },
+  "name": "8 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 8,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/A8y8TxIMMfY?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b83aa80e2c6323563fe77"
+  },
+  "name": "9 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 9,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/GGb_I463qCY?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b83c380e2c6323563fe7a"
+  },
+  "name": "10 شرح الأربعين النووية الشيخ صالح آل الشيخ",
+  "order": 10,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f4"
+  },
+  "videoLink": "https://www.youtube.com/embed/VphcES0NYMk?list=PL914QhoC1BhsZ1QAn8LrJUq-Cy3jB4AJA",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b880e80e2c6323563fe80"
+  },
+  "name": "التعليق على كتاب تيسير اللطيف المنان في خلاصة تفسير القرآن | الشيخ د. عبد الرزاق البدر 01 مقدمة",
+  "order": 1,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/uvjBWc9I_2Y?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8c2580e2c6323563fe86"
+  },
+  "name": "التعليق على كتاب تيسير اللطيف المنان | الشيخ د. عبد الرزاق البدر | 02 من قوله ووصفه بأنه كله صلاح",
+  "order": 2,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/uvjBWc9I_2Y?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8c6180e2c6323563fe89"
+  },
+  "name": "التعليق على كتاب تيسير اللطيف المنان | الشيخ د. عبد الرزاق البدر | 03 من قوله {الْحَمْدُ لِلَّهِ}",
+  "order": 3,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/cWj8gScwxqU?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8ca380e2c6323563fe8c"
+  },
+  "name": "التعليق على تيسير اللطيف المنان | د. عبد الرزاق | 04 من قوله {اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ}",
+  "order": 4,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/kzk414fECog?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8cef80e2c6323563fe8f"
+  },
+  "name": "التعليق على تيسير اللطيف المنان | د. عبد الرزاق البدر | 05 من قوله {قل آمنا بالله وما أنزل علينا..}",
+  "order": 5,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/dM_SKV1CdW0?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8e0580e2c6323563fe9d"
+  },
+  "name": "التعليق على تيسير اللطيف المنان | د. عبد الرزاق البدر | 06 من قوله {اللَّهُ لَا إِلَهَ إِلَّا هُوَ }",
+  "order": 6,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/2wtWMbp9yUE?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8e9a80e2c6323563fea0"
+  },
+  "name": "التعليق على تيسير اللطيف المنان | د. عبد الرزاق البدر | 07 من قوله: ومن تمام ملكه ..",
+  "order": 7,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/uMRrg5XA0vY?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8f3a80e2c6323563fea3"
+  },
+  "name": "لتعليق على تيسير اللطيف المنان | د. عبد الرزاق البدر",
+  "order": 8,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/zJrtp6v8YQs?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8f8a80e2c6323563fea6"
+  },
+  "name": "التعليق على تيسير اللطيف المنان | د. عبد الرزاق البدر | 09 من قوله: {فاعلم أنه لا إله إلا الله..}",
+  "order": 9,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/huTxruDa3g8?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b8fbf80e2c6323563fea9"
+  },
+  "name": "10 التعليق على تيسير اللطيف المنان في خلاصة تفسير القرآن|للشيخ د. عبد الرزاق البدر الدرس ",
+  "order": 10,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f5"
+  },
+  "videoLink": "https://www.youtube.com/embed/h_QH_VZTvsc?list=PLDt6JFWpCMTyA8OfRptGEwXlMuAx-Vn5J",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f14"
+  },
+  "name": "002- نقد نظرية التطور فى الدين( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 2,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/O3vnZgj95Bg?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f18"
+  },
+  "name": "006- توحيد الربوبية ( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 6,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/0siPgEs_ib0?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f15"
+  },
+  "name": "003- أهل السنة والجماعة...أصحاب المنهج الأصيل( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 3,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/zMpT2hwF05c?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f13"
+  },
+  "name": "001-إن الدين عند الله الإسلام( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 1,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/ddAQzxdqWaE?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f16"
+  },
+  "name": "004- ضوابط الاعتقاد عند أهل السنة ( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 4,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/JMMj-UNDLtA?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f17"
+  },
+  "name": "005- مقارنة بين الدين و الفلسفة ( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 5,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/kSLQ3vrAbsQ?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f19"
+  },
+  "name": "007- توحيدنا وتوحيدهم ( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 7,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/d8wF8VCcCCY?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f1c"
+  },
+  "name": "010- أعلى شعب الإيمان.( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 10,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/uxpmcHcg_U4?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f1a"
+  },
+  "name": "008- معنى توحيد الربوبية( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 8,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/n00Ih_f9UdA?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6673639af06652210f536f1b"
+  },
+  "name": "009- الكلمة المقدسة.( أصول الإيمان).د/ محمد إسماعيل المقدم",
+  "order": 9,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f6"
+  },
+  "videoLink": "https://www.youtube.com/embed/B0A1sgVe61k?list=PLUEDYjbKRCZ2Fu8bQT7QHE2FLIH3yGkmg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f28"
+  },
+  "name": "001- المياه- الآنية - سنن الفطرة- الاستنجاء - الوضوء.",
+  "order": 1,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/IBtW9orE-Z0?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f2a"
+  },
+  "name": "003- باب الحيض وكتاب الصلاة ( 1 ) .",
+  "order": 3,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/7JdMXsIPoUo?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f29"
+  },
+  "name": "002- فقه المسح على الخفين و الغسل و التيمم و النجاسات.",
+  "order": 2,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/mVab6q48nYQ?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f2b"
+  },
+  "name": "004- كــتــاب الــصــلاة ( 2 ) .",
+  "order": 4,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/7JdMXsIPoUo?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f2e"
+  },
+  "name": "007- كــتــاب الــصــلاة ( 5 ) و كتاب الجنائز ( 1 ) .",
+  "order": 7,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/fjqk0JEjLqI?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f2f"
+  },
+  "name": "008- كتاب الجنائز ( 2 ) وكتاب الزكاة ( 1 ) .",
+  "order": 8,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/Z8NF-To1EOU?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f2c"
+  },
+  "name": "005- كــتــاب الــصــلاة ( 3 ) .",
+  "order": 5,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/mSz1qi2QYhY?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f2d"
+  },
+  "name": "006- كــتــاب الــصــلاة ( 4 ) .",
+  "order": 6,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/Bge9YXlWIrg?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f30"
+  },
+  "name": "009- كتاب الزكاة ( 2 ) .",
+  "order": 9,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/BEzVo2Kg9yw?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667367a1f06652210f536f31"
+  },
+  "name": "010- كتاب الزكاة ( 3 ).",
+  "order": 10,
+  "course": {
+    "$oid": "6668e476d515ebb61d73c2f7"
+  },
+  "videoLink": "https://www.youtube.com/embed/cM2R0NMf83c?list=PLUEDYjbKRCZ3R2eWc2UrbgghPdhBSIePi",
+  "__v": 0
+}]
